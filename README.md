@@ -1,6 +1,8 @@
 
 - 👋 Hola, yo soy @JoyZaca
-- 👀 Mi interes es la medicina 
+- 👀 Actualmente curso el segundo grado de baciller 
+en el area de programacion, Mi interes es la medicina poder ayudar 
+a personas con conocimientos medicos... 
 - 💞️ GJ 
 - ⚡ You master
 <p align="left">
